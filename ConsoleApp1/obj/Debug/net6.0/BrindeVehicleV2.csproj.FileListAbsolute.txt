@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\bin\Debug\net6.0\BrindeVehicleV2.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\bin\Debug\net6.0\BrindeVehicleV2.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\bin\Debug\net6.0\BrindeVehicleV2.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\bin\Debug\net6.0\BrindeVehicleV2.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\bin\Debug\net6.0\BrindeVehicleV2.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\refint\BrindeVehicleV2.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\BrindeVehicleV2.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\ConsoleApp1\obj\Debug\net6.0\ref\BrindeVehicleV2.dll
