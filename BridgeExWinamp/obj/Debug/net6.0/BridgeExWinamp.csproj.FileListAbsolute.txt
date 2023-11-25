@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\bin\Debug\net6.0\BridgeExWinamp.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\bin\Debug\net6.0\BridgeExWinamp.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\bin\Debug\net6.0\BridgeExWinamp.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\bin\Debug\net6.0\BridgeExWinamp.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\bin\Debug\net6.0\BridgeExWinamp.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\refint\BridgeExWinamp.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\BridgeExWinamp.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeExWinamp\obj\Debug\net6.0\ref\BridgeExWinamp.dll
