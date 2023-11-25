@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\bin\Debug\net6.0\BridgeVehicles.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\bin\Debug\net6.0\BridgeVehicles.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\bin\Debug\net6.0\BridgeVehicles.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\bin\Debug\net6.0\BridgeVehicles.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\bin\Debug\net6.0\BridgeVehicles.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\refint\BridgeVehicles.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\BridgeVehicles.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Bridge\BridgeVehicles\obj\Debug\net6.0\ref\BridgeVehicles.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeExWinamp", "BridgeExWinamp\BridgeExWinamp.csproj", "{D9204A29-1BD9-47A3-9948-82AF9AE239DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeVehicles", "BridgeVehicles\BridgeVehicles.csproj", "{FB21A06B-BB4D-49CD-84A7-15E0A219F50B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9204A29-1BD9-47A3-9948-82AF9AE239DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9204A29-1BD9-47A3-9948-82AF9AE239DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9204A29-1BD9-47A3-9948-82AF9AE239DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB21A06B-BB4D-49CD-84A7-15E0A219F50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB21A06B-BB4D-49CD-84A7-15E0A219F50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB21A06B-BB4D-49CD-84A7-15E0A219F50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB21A06B-BB4D-49CD-84A7-15E0A219F50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
